@@ -50,6 +50,13 @@
             </plugin>
         </plugins>
     </build>
+<distributionManagement>
+<repository>
+<id>divesh-repo</id>
+<name>divesh-repo</name>
+<url>http://34.93.113.153:8081/repository/divesh-repo/</url>
+</repository>
+</distributionManagement>
 </project>
 
 
