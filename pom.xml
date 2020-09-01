@@ -56,6 +56,13 @@
 <name>divesh-repo</name>
 <url>http://34.122.139.247:8081/repository/divesh-repo/</url>
 </repository>
+    
+    <dependency>
+  <groupId>ci.jenkins.aws</groupId>
+  <artifactId>proj3</artifactId>
+  <version>1.5</version>
+  <type>war</type>
+</dependency>
 </distributionManagement>
 </project>
 
