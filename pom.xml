@@ -54,7 +54,7 @@
 <repository>
 <id>divesh-repo</id>
 <name>divesh-repo</name>
-<url>http://34.93.113.153:8081/repository/divesh-repo/</url>
+<url>http://34.122.139.247:8081/repository/divesh-repo/</url>
 </repository>
 </distributionManagement>
 </project>
